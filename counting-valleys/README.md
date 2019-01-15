@@ -23,3 +23,5 @@ DDUUDDUDUUUD
 ```
 2
 ```
+
+https://www.hackerrank.com/challenges/counting-valleys/problem
