@@ -1,5 +1,11 @@
 # electronics-shop
 
+```
+λ cd app
+λ stack ghci (Ok, one module loaded.)
+λ main  
+```
+
 ### Input
 ```
 10 2 3
