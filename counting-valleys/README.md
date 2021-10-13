@@ -1,9 +1,11 @@
 # counting-valleys
 
+A valley is defined as going lower than sea level and then back to sea level
+
 ### Input 
 ```
-8
-UDDDUDUU
+N = 8
+S = UDDDUDUU
 ```
 ### Output
 ```
@@ -16,12 +18,17 @@ _/\      _
 
 ### Input 
 ```
-12
-DDUUDDUDUUUD
+N = 10
+S = UDDDUDUUDU
 ```
 ### Output
 ```
 2
+
+_/\      _  _
+   \    / \/
+    \/\/
+
 ```
 
 https://www.hackerrank.com/challenges/counting-valleys/problem
